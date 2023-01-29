@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.post-element {
+  width: 261px;
+  min-height: 318px;
+  margin: 20px 0;
+  padding: 1rem;
+  background-color: #d9d9d9;
+}
+img {
+  width: 233px;
+  height: 163px;
+}
